@@ -10,6 +10,7 @@ This is a simple command line tool to spell check a file.
 ## Usage: 
 
 Argument | Description
+--- | ---
 -i | filename The name of the file to spell check.
 -o | filename The name of the file to write the misspelt words and their line numbers to.
 -c | Indicates that the case of the words to be checked can be ignored.
