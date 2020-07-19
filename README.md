@@ -7,7 +7,7 @@
 
 This is a simple command line tool to spell check a file.
 
-##Usage: 
+## Usage: 
 
 Argument | Description
 -i | filename The name of the file to spell check.
